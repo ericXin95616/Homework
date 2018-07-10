@@ -1,0 +1,16 @@
+#!/bin/bash
+
+javac RandomGeneration.java
+java RandomGeneration > RandomSample
+
+# find the sort .cpp file
+fileName = 'grep -i *_sort.cpp'
+
+# compile that file
+g++ -g -Wall -Werror -std=c++14 $fileName
+
+# redirect input
+./a.out < RandomSample > sortProcess.txt
+
+# show visual track
+java Visual

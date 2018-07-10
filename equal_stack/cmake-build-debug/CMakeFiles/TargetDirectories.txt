@@ -1,0 +1,3 @@
+/home/xinbochao/桌面/algorithm/equal_stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/xinbochao/桌面/algorithm/equal_stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/xinbochao/桌面/algorithm/equal_stack/cmake-build-debug/CMakeFiles/equal_stack.dir

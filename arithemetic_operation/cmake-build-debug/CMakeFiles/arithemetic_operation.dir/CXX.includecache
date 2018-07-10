@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/xinbochao/桌面/algorithm/arithemetic_operation/main.cpp
+iostream
+-
+stack
+-
+string
+-
+cctype
+-
+sstream
+-
+

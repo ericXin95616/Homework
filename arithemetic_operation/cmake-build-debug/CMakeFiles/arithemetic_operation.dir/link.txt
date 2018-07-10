@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/arithemetic_operation.dir/main.cpp.o  -o arithemetic_operation 

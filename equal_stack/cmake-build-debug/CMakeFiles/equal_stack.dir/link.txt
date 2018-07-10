@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/equal_stack.dir/main.cpp.o  -o equal_stack 
