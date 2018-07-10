@@ -1,0 +1,2 @@
+merge_sort.out: merge_sort.cpp mergesort.cpp mergesort.h
+	g++ -g -std=c++14 -Wall -Werror -o merge_sort.out merge_sort.cpp mergesort.cpp mergesort.h
