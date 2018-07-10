@@ -1,0 +1,1 @@
+/usr/bin/cc -g   CMakeFiles/card_prob.dir/main.c.o  -o card_prob 
