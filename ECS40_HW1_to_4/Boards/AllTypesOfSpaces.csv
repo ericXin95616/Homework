@@ -1,0 +1,18 @@
+Number of Spaces,14,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Type,Set Id,Intraset Id,Name,Property Cost,House Cost,Hotel Cost,Rent,Rent with House,Rent With Hotel
+Go,25,Go,,,,,,,
+Property,0,0,Prop00,100,50,75,25,50,600
+Property,0,1,Prop01,100,50,75,25,50,600
+Pay,Pay1,50,,,,,,,
+Property,1,0,Prop10,150,75,100,50,100,1000
+Jail,Jail1,2,100,,,,,,
+Property,2,0,Prop20,200,100,125,75,150,1500
+GoToJail,Cops1,5,,,,,,,
+FreeParking,Free1,,,,,,,,
+GoToJail,Cops2,11,,,,,,,
+FreeParking,Free2,,,,,,,,
+Jail,Jail2,20,1,,,,,,
+Property,1,1,Prop11,150,75,100,50,100,1000
+Pay,Pay2,100,,,,,,,

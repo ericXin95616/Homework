@@ -1,0 +1,7 @@
+Number of Spaces,3,,,,,,,,
+,,,,,,,,,
+,,,,,,,,,
+Type,Set Id,Intraset Id,Name,Property Cost,House Cost,Hotel Cost,Rent,Rent with House,Rent With Hotel
+Go,0,Go,,,,,,,
+Jail,TheSlammer,2,50,,,,,,
+GoToJail,Cops,1,,,,,,,
